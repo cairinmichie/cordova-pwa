@@ -1,3 +1,6 @@
+# DEPRECATED
+Please use the Vuetify [CLI 3.x plugin](https://github.com/vuetifyjs/vue-cli-plugin-vuetify).
+
 # vue-pwa-boilerplate
 
 > A full-featured [PWA](https://developers.google.com/web/progressive-web-apps/) template with webpack, hot-reload, lint-on-save, unit testing & css extraction.
